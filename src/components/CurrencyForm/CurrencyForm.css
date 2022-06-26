@@ -1,0 +1,18 @@
+.formInside{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.formInside span {
+    color: #9f1515;
+}
+
+.formInside div{
+    margin: 0 80px 10px 0;
+}
+
+
+.CFbtn {
+    margin: 0 auto;
+}

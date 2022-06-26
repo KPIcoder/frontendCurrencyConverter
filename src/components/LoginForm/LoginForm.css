@@ -1,0 +1,9 @@
+.btn {
+    box-sizing: border-box;
+    height: auto;
+    width: 100px;
+    background-color: snow;
+    font-size: 22px;
+    color: black;
+    border-radius: 10px;
+}

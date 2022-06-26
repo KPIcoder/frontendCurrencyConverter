@@ -1,0 +1,27 @@
+.CurrencyHistoricalDetails{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.CurrencyLabelsText {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.submitBtn{
+    box-sizing: border-box;
+    color: snow;
+    height: auto;
+    width: 100px;
+    background-color: rgb(22,69,122);
+    font-size: 22px;
+    padding: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.submitBtn:hover {
+    background-color: #18006a;
+}

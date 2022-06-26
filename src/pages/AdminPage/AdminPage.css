@@ -1,0 +1,13 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+.block {
+    padding: 20px;
+    background-color: snow;
+    color: black;
+    font-size: 20px;
+}

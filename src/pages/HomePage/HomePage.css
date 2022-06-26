@@ -1,0 +1,42 @@
+.homePageExchangeWrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+
+input {
+    box-sizing: border-box;
+    border: 2px solid rgb(22,69,122);
+    border-radius: 50px;
+    height: 45px;
+    margin: 0 10px 0 0;
+    outline: none;
+    padding: 5px;
+    font-size: 30px;
+}
+select {
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    padding-left: 3px;
+    font-size: 20px;
+    position: relative;
+    top: -2px;
+    outline: none;
+    text-align: center;
+    appearance: none;
+    border-radius: 100px;
+    border: 2px solid rgb(22,69,122);
+}
+
+
